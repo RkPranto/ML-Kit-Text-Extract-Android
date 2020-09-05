@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13202000317",
+    "firebase_url": "https://ml-kit-text-extract-android.firebaseio.com",
+    "project_id": "ml-kit-text-extract-android",
+    "storage_bucket": "ml-kit-text-extract-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13202000317:android:01df961d7aa220633a2ad4",
+        "android_client_info": {
+          "package_name": "com.rezwan_cs.ml_kit_text_extract_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13202000317-mh25i6g14fnnnt1iicli894t9b8k4r14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMvCIYwqzYirVMR_cMmJh4XAJCfNZr_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13202000317-mh25i6g14fnnnt1iicli894t9b8k4r14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
